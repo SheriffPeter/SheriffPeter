@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @SheriffPeter, have been a developper for 11 years. Multiple experiences
     - Embedded C, arduino, Ada
     - Banking C++
+    - Scripting, python, CI/CD, quality management, project management, ...
 - 👀 I’m interested in
     - Rust
-    - Pyhton
+    - Python
     - C++
 - 🌱 I’m currently learning
     - CI/CD
